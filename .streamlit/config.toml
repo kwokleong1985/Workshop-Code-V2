@@ -6,20 +6,3 @@ maxUploadSize = 100
 
 [browser]
 gatherUsageStats = false
-
-openai_key = "will provide during workshop"
-default_db = "chergpt.db"
-default_temp = 0.0
-default_frequency_penalty = 0.0
-default_presence_penalty = 0.0
-default_k_memory = 4
-default_model = "gpt-4-1106-preview"
-default_password = "default_password"
-student_password = "studentp@sswrd"
-teacher_password = "teacherp@sswrd"
-super_admin_password = "pass1234"
-super_admin = "super_admin"
-default_title = "GenAI Workshop Framework V2"
-sql_ext_path = "None"
-ASSISTANT_ID = "asst_SN0BhLgX1qI3ztb3JOJ6t52P"
-MAPBOX_TOKEN = "pk.eyJ1IjoidHdhaGlkaW4iLCJhIjoiY2xwN3pxMTR6MG82NjJqcWk3cnFpMW52cSJ9.qWumZuF-c5SEZCbiKu6Dpg"
